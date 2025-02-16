@@ -47,3 +47,32 @@ html {
     background: url('https://wallpaperaccess.com/full/1098290.jpg') no-repeat center fixed;
     background-size: cover;
 }
+
+.Menu {
+    height: 350px;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.SignUp {
+    color:azure;
+    height: 350px;
+    font-size: 24px;
+    line-height: 2;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    margin-top: -30px;
+}
+
+.done{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 55vh;
+    text-align: center;
+    line-height: 2.5;
+}
