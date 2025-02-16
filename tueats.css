@@ -1,1 +1,49 @@
+body {
+    font-family: 'Copperplate Gothic', Times, serif
+}
 
+h1 {
+    color: #ffbb00
+}
+
+table {
+    width: 75%;
+    border-collapse: collapse;
+    background-color: #808080;
+    text-align: center;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+th {
+    font-weight: bold;
+}
+
+table caption a {
+    text-decoration: none;
+}
+
+table caption a:hover {
+    color: #ffbb00;
+}
+
+.element {
+    width: 300px;
+    height: 108px;
+    background-image: url('https://www.pngkey.com/png/full/535-5356196_towson-university-logo.png');
+    background-size: cover;
+    background-position: top right;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+html {
+    background: url('https://wallpaperaccess.com/full/1098290.jpg') no-repeat center fixed;
+    background-size: cover;
+}
