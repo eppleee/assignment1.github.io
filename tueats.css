@@ -57,7 +57,7 @@ html {
 }
 
 .SignUp {
-    color:azure;
+    color: azure;
     height: 350px;
     font-size: 24px;
     line-height: 2;
@@ -67,7 +67,7 @@ html {
     margin-top: -30px;
 }
 
-.done{
+.done {
     display: flex;
     flex-direction: column;
     justify-content: center;
